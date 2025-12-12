@@ -1,0 +1,14 @@
+{
+  "chats": {
+    "5059251147": {
+      "enabled": true,
+      "rsiLow": 30,
+      "rsiHigh": 70,
+      "awaiting": null,
+      "priceAlerts": [],
+      "_last": "sell",
+      "targetPrice": null,
+      "stopLoss": null
+    }
+  }
+}
